@@ -6,7 +6,7 @@
 ![Murilo Laba GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloLaba&show_icons=true&theme=dark)
 
 
-### Tecnologias que eu utilizo
+### Tecnologias que eu utilizo 
 
 <div style="display: inline_block"><br/>
     <img align="center" alt ="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -18,7 +18,13 @@
 </div>
 <br/><br/>
 👋 Olá! Sou um estudante de Ciência da Computação no último ano, apaixonado por Python e com um forte interesse em Inteligência Artificial e Aprendizado de Máquina. 💻🚀
-
+<br/>
 🎓 Estou me especializando em IA e estou sempre procurando aprender mais sobre novas técnicas e algoritmos. Tenho experiência com frameworks como Pandas, Keras e TensorFlow, e adoro explorar seu potencial para resolver problemas complexos.
-
+<br/>
 📚 Atualmente, estou em busca de oportunidades para aplicar meus conhecimentos e expandir minha experiência na área de IA. Estou aberto a colaborações e projetos interessantes!
+<br/><br/>
+👋 Hello! I'm a final-year Computer Science student, passionate about Python and with a strong interest in Artificial Intelligence and Machine Learning. 💻🚀
+<br/>
+🎓 I'm specializing in AI and constantly seeking to learn more about new techniques and algorithms. I have experience with frameworks like Pandas, Keras, and TensorFlow, and I enjoy exploring their potential to solve complex problems.
+<br/>
+📚 Currently, I'm actively seeking opportunities to apply my knowledge and expand my experience in the field of AI. I'm open to collaborations and interesting projects!
