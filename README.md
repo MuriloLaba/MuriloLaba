@@ -16,7 +16,7 @@
     <img align="center" alt ="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt ="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
-
+<br/><br/>
 👋 Olá! Sou um estudante de Ciência da Computação no último ano, apaixonado por Python e com um forte interesse em Inteligência Artificial e Aprendizado de Máquina. 💻🚀
 
 🎓 Estou me especializando em IA e estou sempre procurando aprender mais sobre novas técnicas e algoritmos. Tenho experiência com frameworks como Pandas, Keras e TensorFlow, e adoro explorar seu potencial para resolver problemas complexos.
