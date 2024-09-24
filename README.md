@@ -14,15 +14,3 @@
     <img align="center" alt ="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt ="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
-<br/><br/>
-👋 Olá! Sou um estudante de Ciência da Computação no último ano, apaixonado por Python e com um forte interesse em Inteligência Artificial e Aprendizado de Máquina. 💻🚀
-<br/>
-🎓 Estou me especializando em IA e estou sempre procurando aprender mais sobre novas técnicas e algoritmos. Tenho experiência com frameworks como Pandas, Keras e TensorFlow, e adoro explorar seu potencial para resolver problemas complexos.
-<br/>
-📚 Atualmente, estou em busca de oportunidades para aplicar meus conhecimentos e expandir minha experiência na área de IA. Estou aberto a colaborações e projetos interessantes!
-<br/><br/>
-👋 Hello! I'm a final-year Computer Science student, passionate about Python and with a strong interest in Artificial Intelligence and Machine Learning. 💻🚀
-<br/>
-🎓 I'm specializing in AI and constantly seeking to learn more about new techniques and algorithms. I have experience with frameworks like Pandas, Keras, and TensorFlow, and I enjoy exploring their potential to solve complex problems.
-<br/>
-📚 Currently, I'm actively seeking opportunities to apply my knowledge and expand my experience in the field of AI. I'm open to collaborations and interesting projects!
