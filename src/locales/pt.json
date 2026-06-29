@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "title": "Murilo Laba — Product Engineer & Full Stack Developer",
+    "description": "Murilo Laba — Product Engineer, founder da InovaAxis. Especialista em SaaS, AWS, React e React Native. Ecossistema digital para pistas de kart no Brasil."
+  },
+  "nav": {
+    "about": "Sobre",
+    "skills": "Skills",
+    "experience": "Experiência",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "name": "Murilo Laba",
+    "headline": "Transformando desafios reais em produtos escaláveis",
+    "subtitle": "Product Engineer & Founder na InovaAxis. Construo ecossistemas digitais completos — mobile, SaaS, desktop e cloud — com React, React Native, AWS e foco em execução.",
+    "ctaProjects": "Ver Projetos",
+    "ctaCV": "Baixar CV",
+    "scrollHint": "Scroll para explorar"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "subtitle": "Product Engineer em Curitiba, PR — orientado a problemas, autônomo e focado em execução.",
+    "bio1": "Sou Product Engineer e founder da InovaAxis, empresa que desenvolve soluções digitais para pistas de kart no Brasil. Construí o Kart Hub Experience — ecossistema com app mobile, plataforma SaaS, softwares Electron de cronometragem e painel ao vivo via LAN — além do medRenda, app de controle de rendas para profissionais da saúde.",
+    "bio2": "Formado em Ciência da Computação pela Universidade Positivo, combino engenharia full-stack com visão de produto — UX/UI, gestão de roadmap e ambientes B2B/B2C. Busco oportunidades remotas onde posso contribuir com desenvolvimento, engenharia e estratégia, enquanto continuo escalando meu negócio.",
+    "stats": {
+      "years": "Anos em tecnologia",
+      "ecosystem": "Produtos entregues",
+      "saas": "SaaS em produção"
+    }
+  },
+  "skills": {
+    "title": "Skills & Tecnologias",
+    "subtitle": "Stack que uso para levar produtos do conceito à produção.",
+    "categories": {
+      "frontend": "Front-end & Mobile",
+      "backend": "Back-end & Cloud",
+      "devops": "DevOps & Infra",
+      "tools": "Produto & Ferramentas"
+    }
+  },
+  "experience": {
+    "title": "Experiência",
+    "subtitle": "Trajetória profissional construindo produtos de ponta a ponta.",
+    "present": "Presente"
+  },
+  "projects": {
+    "title": "Projetos",
+    "subtitle": "InovaAxis, Kart Hub Experience, medRenda e projetos para clientes — produtos reais em produção.",
+    "viewGithub": "GitHub",
+    "viewDemo": "Ver produto",
+    "empty": "Nenhum projeto nesta categoria ainda.",
+    "categories": {
+      "all": "Todos",
+      "landing": "Landing Pages",
+      "saas": "SaaS",
+      "mobile": "Mobile",
+      "backend": "Back-end"
+    }
+  },
+  "contact": {
+    "title": "Vamos conversar?",
+    "subtitle": "Aberto a oportunidades remotas em product engineering, desenvolvimento full-stack e estratégia de produto. Envie uma mensagem ou conecte-se.",
+    "form": {
+      "name": "Nome",
+      "email": "E-mail",
+      "message": "Mensagem",
+      "submit": "Enviar mensagem",
+      "sending": "Enviando...",
+      "success": "Mensagem enviada! Retornarei em breve.",
+      "error": "Erro ao enviar. Tente novamente ou use o e-mail direto."
+    }
+  },
+  "footer": {
+    "madeWith": "",
+    "rights": "Todos os direitos reservados."
+  }
+}
